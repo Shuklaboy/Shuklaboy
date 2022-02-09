@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shuklaboy
 - 👀 I’m interested in Python & SQL 
-- 🌱 I’m currently learning C AND DS
+- 🌱 I’m currently learning Python AND Data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Shuklaboy/Shuklaboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
