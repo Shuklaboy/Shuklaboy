@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklaboy&" alt="shuklaboy" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shuklaboy)](https://git.io/streak-stats)
+<a ><img src="https://streak-stats.demolab.com?user=shuklaboy"  /></a>
