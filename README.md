@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuklaboy&show_icons=true&locale=en" alt="shuklaboy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklaboy&" alt="shuklaboy" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shuklaboy)](https://git.io/streak-stats)
